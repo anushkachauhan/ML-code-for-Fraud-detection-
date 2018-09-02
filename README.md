@@ -1,6 +1,7 @@
 # ML-code-for-Fraud-detection-
 
-Won the Dell Hack to Hire Hackathon 
+Won the Dell Hack to Hire Hackathon.
+
 I had used K means Clustering algorithm, K Nearest Neighbor, Isolation Forest methods to detect the fraud.
 The best suited Algorithm is KNN.
 Found this by using the confusion metrix. Currently Working upon it to make it better.
